@@ -15,12 +15,36 @@ public class Grupo_2_progra_III_A {
         Evaluador motor = new Evaluador(miHoja);
 
         //Inserción de datos
-        miHoja.insertar(1, 1, "50");   
-        miHoja.insertar(2, 1, "100");  
-        miHoja.insertar(3, 1, "200");  
-        miHoja.insertar(1, 2, "10");
-        miHoja.insertar(5, 5, "8"); 
-        miHoja.insertar(5, 10, "8"); 
+        miHoja.insertar(1, 1, "452");
+        miHoja.insertar(1, 2, "819");
+        miHoja.insertar(1, 3, "92");
+        miHoja.insertar(1, 4, "674");
+        miHoja.insertar(2, 1, "135");
+        miHoja.insertar(2, 2, "903");
+        miHoja.insertar(2, 3, "218");
+        miHoja.insertar(2, 4, "541");
+        miHoja.insertar(3, 1, "327");
+        miHoja.insertar(3, 2, "766");
+        miHoja.insertar(3, 3, "48");
+        miHoja.insertar(3, 4, "891");
+        miHoja.insertar(4, 1, "254");
+        miHoja.insertar(4, 2, "612");
+        miHoja.insertar(4, 3, "107");
+        miHoja.insertar(4, 4, "984");
+        miHoja.insertar(5, 1, "333");
+        miHoja.insertar(5, 2, "421");
+        miHoja.insertar(5, 3, "559");
+        miHoja.insertar(5, 4, "124");
+        miHoja.insertar(6, 1, "730");
+        miHoja.insertar(6, 2, "847");
+        miHoja.insertar(6, 3, "299");
+        miHoja.insertar(6, 4, "605");
+        miHoja.insertar(7, 1, "182");
+        miHoja.insertar(7, 2, "940");
+        miHoja.insertar(7, 3, "516");
+        miHoja.insertar(7, 4, "772");
+        miHoja.insertar(8, 1, "368");
+        miHoja.insertar(8, 2, "491");
 
         // Pruebas de cálculo
         System.out.println("--- PRUEBAS DE CALCULO ---");
