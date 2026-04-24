@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package gt.edu.miumg.grupo_2_progra_iii_a;
+package hojacalculo;
 
 public class Visualizador {
     public static void mostrar(HojaCalculo hoja, int filas, int columnas) {
